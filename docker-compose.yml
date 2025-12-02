@@ -1,0 +1,187 @@
+version: '3.8'
+
+services:
+  # Ollama - Local LLM (FREE)
+  ollama:
+    image: ollama/ollama:latest
+    container_name: rfp_ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    networks:
+      - rfp_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # PostgreSQL - Storage
+  postgres:
+    image: postgres:15-alpine
+    container_name: rfp_postgres
+    environment:
+      POSTGRES_DB: rfp_crawler
+      POSTGRES_USER: rfp_user
+      POSTGRES_PASSWORD: rfp_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - rfp_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U rfp_user"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Redis - Queue Management
+  redis:
+    image: redis:7-alpine
+    container_name: rfp_redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - rfp_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ChromaDB - Vector Storage
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: rfp_chromadb
+    ports:
+      - "8000:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+    environment:
+      - IS_PERSISTENT=TRUE
+    networks:
+      - rfp_network
+
+  # Main Crawler Application
+  crawler:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rfp_crawler
+    depends_on:
+      ollama:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      chromadb:
+        condition: service_started
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=rfp_crawler
+      - POSTGRES_USER=rfp_user
+      - POSTGRES_PASSWORD=rfp_password
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+      - ./config:/app/config
+      - ./logs:/app/logs
+    ports:
+      - "8080:8080"
+    networks:
+      - rfp_network
+    command: python src/main.py
+
+  # Celery Worker for Parallel Crawling
+  celery_worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rfp_celery_worker
+    depends_on:
+      - redis
+      - postgres
+      - ollama
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=rfp_crawler
+      - POSTGRES_USER=rfp_user
+      - POSTGRES_PASSWORD=rfp_password
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+      - ./config:/app/config
+      - ./logs:/app/logs
+    networks:
+      - rfp_network
+    command: celery -A src.tasks worker --loglevel=info --concurrency=4
+
+  # Flower - Celery Monitoring UI
+  flower:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rfp_flower
+    depends_on:
+      - redis
+      - celery_worker
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+    ports:
+      - "5555:5555"
+    networks:
+      - rfp_network
+    command: celery -A src.tasks flower --port=5555
+
+  # Web Dashboard (Optional)
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rfp_dashboard
+    depends_on:
+      - postgres
+      - chromadb
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=rfp_crawler
+      - POSTGRES_USER=rfp_user
+      - POSTGRES_PASSWORD=rfp_password
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+    networks:
+      - rfp_network
+    command: python src/dashboard/app.py
+
+volumes:
+  ollama_data:
+  postgres_data:
+  redis_data:
+  chroma_data:
+
+networks:
+  rfp_network:
+    driver: bridge
