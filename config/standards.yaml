@@ -1,0 +1,27 @@
+business_profile: >
+  Asian Paints focus: coatings, waterproofing, protective/decorative finishes, and industrial surface treatments.
+keywords:
+  primary:
+    - paint
+    - coating
+    - waterproofing
+    - epoxy
+    - anti-corrosive
+    - primer
+  secondary:
+    - construction
+    - building
+    - infrastructure
+    - renovation
+    - maintenance
+  technical:
+    - polyurethane
+    - polyurea
+    - alkyd
+    - surface preparation
+    - shot blast
+    - sand blast
+scoring_thresholds:
+  jaccard_threshold: 0.25
+  cosine_threshold: 0.50
+  overall_threshold: 0.45

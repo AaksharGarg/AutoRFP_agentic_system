@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "rfp_extracted_ultra_min_v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "source_url",
+    "source_domain",
+    "crawl_timestamp",
+    "is_rfp",
+    "title",
+    "deadline_date",
+    "description",
+    "documents"
+  ],
+  "properties": {
+    "id": { "type": "string" },                                         
+    "source_url": { "type": "string", "format": "uri" },               
+    "source_domain": { "type": "string" },                             
+    "crawl_timestamp": { "type": "string", "format": "date-time" },    
+
+    "is_rfp": { "type": "boolean" },                                   
+
+    "title": { "type": ["string", "null"] },                           
+    "rfp_number": { "type": ["string", "null"] },                      
+
+    "date_of_posting": { "type": ["string", "null"], "format": "date" },
+    "deadline_date": { "type": ["string", "null"], "format": "date-time" },
+
+    "buyer_name": { "type": ["string", "null"] },                      
+
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "country": { "type": ["string", "null"] },                    
+        "city": { "type": ["string", "null"] }                        
+      }
+    },
+
+    "contact_emails": {
+      "type": "array",
+      "items": { "type": "string", "format": "email" }
+    },
+
+    "description": { "type": ["string", "null"] },                     
+
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url", "filename", "filetype"],
+        "properties": {
+          "url": { "type": "string", "format": "uri" },               
+          "filename": { "type": "string" },                           
+          "filetype": { "type": "string" }                            
+        }
+      }
+    },
+
+    "keywords": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

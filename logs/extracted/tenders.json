@@ -1,0 +1,37 @@
+{
+  "id": "tenders",
+  "source_url": "https://gem.gov.in/tenders",
+  "source_domain": "gem.gov.in",
+  "crawl_timestamp": "2025-12-07T11:37:07.938993Z",
+  "language": "en",
+  "is_rfp": false,
+  "title": "Procurement Intelligence Extraction, Search Functionality, Loading Time Code, Colorbox Script, Sticky Navigation",
+  "rfp_number": null,
+  "date_of_posting": null,
+  "duration_days": null,
+  "deadline_date": null,
+  "estimated_budget_min": null,
+  "estimated_budget_max": null,
+  "currency": null,
+  "agency": null,
+  "location": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "contact": {
+    "contact_emails": [],
+    "contact_phones": [],
+    "contact_person": null
+  },
+  "description": "This is a JavaScript code snippet, likely from an industrial coatings and waterproofing supplier's website.",
+  "requirements_summary": null,
+  "coating_fields": null,
+  "documents": [],
+  "keywords": [],
+  "matched_terms": [],
+  "match_signals": {},
+  "raw_html": null,
+  "raw_json": null,
+  "provenance": {}
+}

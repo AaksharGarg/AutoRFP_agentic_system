@@ -1,0 +1,6 @@
+planner:
+  model: "llama3"
+  base_url: "http://localhost:11434"
+  goal: "Find coating and waterproofing tenders"
+  notes: |
+    Planner prompt is defined in src/agents/planner_prompts.py; keep this file to override model/endpoint in ops.

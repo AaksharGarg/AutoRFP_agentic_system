@@ -1,0 +1,15 @@
+crawl:
+  max_depth: 2
+  request_delay_seconds: 1.0
+  max_concurrent_fetches: 3
+  user_agent: "AutoRFPAgent/1.0"
+  allowed_domains:
+    - tendertiger.com
+    - gem.gov.in
+    - sam.gov
+redis:
+  url: "redis://localhost:6379/0"
+llm:
+  model: "llama3"
+  base_url: "http://localhost:11434"
+goal: "Find coating and waterproofing tenders"

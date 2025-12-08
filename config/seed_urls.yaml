@@ -1,0 +1,13 @@
+seeds:
+  - url: "https://www.tendertiger.com/"
+    priority: 10
+    depth: 2
+    meta: {category: "india"}
+  - url: "https://gem.gov.in/tenders"
+    priority: 10
+    depth: 2
+    meta: {category: "gov-india"}
+  - url: "https://sam.gov/search?keywords=coating"
+    priority: 8
+    depth: 2
+    meta: {source: "seed"}
