@@ -1,0 +1,618 @@
+{
+  "id": "RFP-2025-002",
+  "rfp": {
+    "id": "RFP-2025-002",
+    "source_url": "https://medicalprocurement.org/rfp/hospital-paint",
+    "crawl_timestamp": "2025-12-07T14:20:00Z",
+    "is_rfp": true,
+    "title": "Anti-bacterial Paint and Wall Coating Services for Multi-Specialty Hospital",
+    "rfp_number": "HOSP/DELHI/2025/042",
+    "deadline_date": "2026-01-20T16:30:00Z",
+    "buyer_name": "Apollo Hospitals, Delhi",
+    "location": {
+      "country": "India",
+      "city": "New Delhi"
+    },
+    "contact_emails": [
+      "procurement@apollodelhi.com"
+    ],
+    "description": "Apollo Hospitals Delhi requires specialized anti-bacterial and anti-fungal paint solutions for comprehensive interior wall treatment covering approximately 80,000 sq ft across multiple floors and departments. The project encompasses critical areas including 4 operation theaters, 100 patient rooms, ICU units, corridors, waiting areas, and administrative spaces. All products must meet stringent healthcare standards and possess certifications for hospital use. The paints must be resistant to frequent cleaning with hospital-grade disinfectants and chemical agents, provide a smooth non-porous surface that prevents microbial growth, and be easy to maintain. Special attention required for OT areas with specific color requirements (typically light green or blue) and enhanced anti-microbial properties. The successful bidder must be a certified installer with experience in healthcare facilities, provide material safety data sheets, ensure zero disruption to hospital operations during application, and complete work in phases. A 7-year performance warranty is mandatory. Products should be low-odor or odorless and quick-drying to minimize patient discomfort.",
+    "documents": [
+      {
+        "url": "https://medicalprocurement.org/docs/hospital-specs.pdf",
+        "filename": "healthcare_paint_requirements.pdf",
+        "filetype": "pdf"
+      }
+    ],
+    "keywords": [
+      "anti-bacterial paint",
+      "hospital coating",
+      "healthcare",
+      "anti-fungal",
+      "medical facility",
+      "hygiene",
+      "operation theater",
+      "ICU",
+      "disinfectant resistant"
+    ]
+  },
+  "specs": {
+    "area": "000 sq ft",
+    "application": [
+      "interior"
+    ],
+    "needs_antibacterial": true,
+    "needs_antifungal": true
+  },
+  "scores": {
+    "spec_score": 0.0,
+    "text_score": 0.8,
+    "vendor_score": 0.0,
+    "urgency_score": 0.9922872884870879,
+    "historical_similarity": 0.16765308380126953,
+    "final_score": 0.33399105584325367
+  },
+  "matched_skus": [
+    {
+      "sku": {
+        "sku_id": "AP-037",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 1",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 480.0,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 3.56,
+            "price_per_sqm": 38.32
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-038",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 2",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 490.91,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 3.64,
+            "price_per_sqm": 39.18
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-039",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 3",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 501.82,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 3.72,
+            "price_per_sqm": 40.04
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-040",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 4",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 512.73,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 3.8,
+            "price_per_sqm": 40.9
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-041",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 5",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 523.64,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 3.88,
+            "price_per_sqm": 41.76
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-042",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 6",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 534.55,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 3.96,
+            "price_per_sqm": 42.63
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-043",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 7",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 545.45,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 4.04,
+            "price_per_sqm": 43.49
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-044",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 8",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 556.36,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 4.12,
+            "price_per_sqm": 44.35
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-045",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 9",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 567.27,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 4.2,
+            "price_per_sqm": 45.21
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-046",
+        "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 10",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Healthcare Anti-Bacterial",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": true,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "healthcare"
+        ],
+        "coverage_sqft_per_litre": 135,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 620,
+          "institutional_price_per_litre": 578.18,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 4.28,
+            "price_per_sqm": 46.07
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 3.0
+    }
+  ],
+  "explanation": "Spec Score: 0.00, Text Score: 0.80, Vendor Score: 0.00, Urgency: 0.99, Historical: 0.17. Matched SKUs: 10"
+}

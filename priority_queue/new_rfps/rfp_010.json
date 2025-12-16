@@ -1,0 +1,24 @@
+{
+  "id": "RFP-2025-010",
+  "source_url": "https://corporate-services.tenders.in/catering-rfp",
+  "crawl_timestamp": "2025-12-08T12:00:00Z",
+  "is_rfp": true,
+  "title": "Corporate Cafeteria and Catering Services",
+  "rfp_number": "CORP/FOOD/2025/321",
+  "deadline_date": "2026-01-12T16:00:00Z",
+  "buyer_name": "Infosys Limited",
+  "location": {
+    "country": "India",
+    "city": "Bengaluru"
+  },
+  "contact_emails": ["admin.services@infosys.com"],
+  "description": "Infosys Limited, Bengaluru campus, requires a professional catering service provider to manage and operate the employee cafeteria serving over 3,000 employees daily across three shifts. The comprehensive scope includes breakfast service (7:00 AM - 10:00 AM) for approximately 800 employees, lunch service (12:00 PM - 2:30 PM) for approximately 2,500 employees with multiple cuisine stations, dinner service (7:00 PM - 9:00 PM) for approximately 500 employees, snacks and beverages available throughout working hours (6:00 AM - 10:00 PM), and special catering for meetings, conferences, and corporate events. Menu requirements include North Indian, South Indian, Continental, and Chinese cuisine options, dedicated vegetarian and non-vegetarian counters, healthy food options including salads, grilled items, and low-calorie meals, and specialized dietary accommodations (Jain food, vegan options, gluten-free items). The service provider must maintain stringent hygiene standards with valid FSSAI license and regular health inspections, employ trained and certified kitchen staff with food handler certifications, use quality ingredients from approved vendors with full traceability, implement waste management and sustainability practices, maintain kitchen equipment and dining furniture, and provide real-time feedback mechanism for employees. The cafeteria infrastructure, including kitchen equipment and dining area, will be provided by Infosys. The contract is for 3 years with annual renewal based on performance. Competitive meal pricing with subsidized rates for employees is expected. Bidders must have experience in managing corporate cafeterias serving 2,000+ people daily.",
+  "documents": [
+    {
+      "url": "https://corporate-services.tenders.in/docs/menu-requirements.pdf",
+      "filename": "menu_specifications.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["catering services", "cafeteria", "food service", "corporate dining", "FSSAI", "Infosys", "employee cafeteria", "multi-cuisine", "bengaluru"]
+}

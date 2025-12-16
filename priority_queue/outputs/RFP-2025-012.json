@@ -1,0 +1,620 @@
+{
+  "id": "RFP-2025-012",
+  "rfp": {
+    "id": "RFP-2025-012",
+    "source_url": "https://infrastructure.gov.in/steel-coating-rfp",
+    "crawl_timestamp": "2025-12-06T15:10:00Z",
+    "is_rfp": true,
+    "title": "Anti-Corrosive Coating for Steel Bridge Infrastructure",
+    "rfp_number": "INFRA/COAT/2025/089",
+    "deadline_date": "2026-02-15T16:30:00Z",
+    "buyer_name": "National Highways Authority of India",
+    "location": {
+      "country": "India",
+      "city": "Kolkata"
+    },
+    "contact_emails": [
+      "tenders@nhai.gov.in",
+      "bridge.maintenance@nhai.in"
+    ],
+    "description": "National Highways Authority of India (NHAI) seeks specialized contractors for heavy-duty anti-corrosive protective coating of the Hooghly River steel bridge structures near Kolkata. This critical infrastructure maintenance project covers approximately 30,000 square meters of steel surface area including main girders, cross-beams, trusses, deck supports, and ancillary steel structures. The bridge is located in a challenging coastal environment with high humidity, salt-laden atmosphere, and industrial pollution, requiring superior corrosion protection systems. The comprehensive scope includes complete removal of existing failed coatings, rust, and mill scale using ultra-high pressure water jetting or abrasive blasting to achieve SA 2.5 cleanliness standard as per ISO 8501-1, application of inorganic zinc-rich epoxy primer (minimum 75 microns DFT) for galvanic protection, epoxy intermediate coat (150-200 microns DFT) for enhanced barrier protection and surface build-up, and polyurethane or acrylic polyurethane topcoat (75-100 microns DFT) with excellent UV resistance and color retention. Total dry film thickness should be minimum 300 microns. The coating system must be certified for C5-M marine/industrial environment as per ISO 12944, achieve minimum 15-year service life without major maintenance, withstand temperature variations from 5\u00b0C to 50\u00b0C, resist salt spray test for 3000 hours (ASTM B117), and maintain adhesion after immersion and humidity testing. Work must be executed during favorable weather conditions with strict quality control including DFT measurements, adhesion tests, and holiday detection at 100% coverage. All workers must be NACE Level 2 certified coating inspectors supervised by NACE Level 3 inspector. Traffic disruption should be minimized by working in phases. Contractor must have successfully completed similar bridge coating projects of minimum 20,000 sq meters in the last 5 years. Comprehensive safety plan for working at heights and over water is mandatory.",
+    "documents": [
+      {
+        "url": "https://infrastructure.gov.in/docs/bridge-assessment.pdf",
+        "filename": "structural_assessment_report.pdf",
+        "filetype": "pdf"
+      },
+      {
+        "url": "https://infrastructure.gov.in/docs/coating-standards.pdf",
+        "filename": "technical_standards.pdf",
+        "filetype": "pdf"
+      }
+    ],
+    "keywords": [
+      "steel coating",
+      "anti-corrosive",
+      "bridge infrastructure",
+      "zinc primer",
+      "epoxy coating",
+      "rust protection",
+      "NHAI",
+      "marine environment",
+      "ISO 12944",
+      "polyurethane topcoat"
+    ]
+  },
+  "specs": {
+    "area": "000 sq m"
+  },
+  "scores": {
+    "spec_score": 0.0,
+    "text_score": 0.8,
+    "vendor_score": 0.0,
+    "urgency_score": 0.9998105940561749,
+    "historical_similarity": -0.041036248207092285,
+    "final_score": 0.30381615187736244
+  },
+  "matched_skus": [
+    {
+      "sku": {
+        "sku_id": "AP-001",
+        "sku_name": "Asian Paints Economy Variant 1",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 120.0,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.8,
+            "price_per_sqm": 8.61
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-002",
+        "sku_name": "Asian Paints Economy Variant 2",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 123.64,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.82,
+            "price_per_sqm": 8.83
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-003",
+        "sku_name": "Asian Paints Economy Variant 3",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 127.27,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.85,
+            "price_per_sqm": 9.15
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-004",
+        "sku_name": "Asian Paints Economy Variant 4",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 130.91,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.87,
+            "price_per_sqm": 9.36
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-005",
+        "sku_name": "Asian Paints Economy Variant 5",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 134.55,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.9,
+            "price_per_sqm": 9.69
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-006",
+        "sku_name": "Asian Paints Economy Variant 6",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 138.18,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.92,
+            "price_per_sqm": 9.9
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-007",
+        "sku_name": "Asian Paints Economy Variant 7",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 141.82,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.95,
+            "price_per_sqm": 10.23
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-008",
+        "sku_name": "Asian Paints Economy Variant 8",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 145.45,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.97,
+            "price_per_sqm": 10.44
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-009",
+        "sku_name": "Asian Paints Economy Variant 9",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 149.09,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 0.99,
+            "price_per_sqm": 10.66
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    },
+    {
+      "sku": {
+        "sku_id": "AP-010",
+        "sku_name": "Asian Paints Economy Variant 10",
+        "brand": "Asian Paints",
+        "category": "Interior Emulsion",
+        "sub_category": "Economy",
+        "application_segments": [
+          "Residential",
+          "Commercial",
+          "Industrial",
+          "Healthcare",
+          "Hospitality"
+        ],
+        "surface_types": [
+          "Interior Wall",
+          "Exterior Wall",
+          "Concrete",
+          "Metal"
+        ],
+        "key_properties": {
+          "anti_bacterial": false,
+          "anti_fungal": true,
+          "low_voc": true,
+          "fire_retardant": false,
+          "anti_static": false,
+          "washability_cycles": 15000,
+          "weather_resistance": false
+        },
+        "certifications": [
+          "GreenPro"
+        ],
+        "recommended_rfp_tags": [
+          "interior",
+          "economy"
+        ],
+        "coverage_sqft_per_litre": 150,
+        "pack_sizes_litre": [
+          4,
+          10,
+          20
+        ],
+        "pricing_inr": {
+          "mrp_per_litre": 135,
+          "institutional_price_per_litre": 152.73,
+          "bulk_discount_threshold_litres": 4000,
+          "derived_price": {
+            "price_per_sqft": 1.02,
+            "price_per_sqm": 10.98
+          }
+        },
+        "expected_life_years": 8,
+        "warranty_years": 5
+      },
+      "score": 0.0
+    }
+  ],
+  "explanation": "Spec Score: 0.00, Text Score: 0.80, Vendor Score: 0.00, Urgency: 1.00, Historical: -0.04. Matched SKUs: 10"
+}

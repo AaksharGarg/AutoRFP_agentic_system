@@ -1,0 +1,29 @@
+{
+  "id": "RFP-2025-009",
+  "source_url": "https://aai.tenders.gov.in/airport-paint-2025",
+  "crawl_timestamp": "2025-12-06T09:20:00Z",
+  "is_rfp": true,
+  "title": "Interior and Exterior Painting Contract for New Airport Terminal",
+  "rfp_number": "AAI/PAINT/2025/167",
+  "deadline_date": "2026-02-05T17:00:00Z",
+  "buyer_name": "Airports Authority of India",
+  "location": {
+    "country": "India",
+    "city": "Hyderabad"
+  },
+  "contact_emails": ["procurement@aai.aero", "terminal.rfp@hyderabad.aero"],
+  "description": "Airports Authority of India invites comprehensive painting proposals for the newly constructed international terminal at Rajiv Gandhi International Airport, Hyderabad. This prestigious project covers approximately 150,000 sq ft of interior and exterior surfaces requiring specialized aviation-grade finishes. Interior scope includes passenger arrival and departure halls with high ceilings (15,000 sq ft), retail and duty-free shopping areas (20,000 sq ft), immigration and customs zones (10,000 sq ft), baggage claim areas (12,000 sq ft), VIP lounges and business class facilities (8,000 sq ft), administrative offices and airline counters (15,000 sq ft), and corridors, staircases, and service areas (70,000 sq ft). Exterior scope covers terminal facade with glass and metal cladding interface (40,000 sq ft) and service buildings and annexes (15,000 sq ft). Critical requirements include fire-retardant paints meeting BS 476 Part 7 Class 1 or equivalent for all public areas, high-traffic durable coatings for flooring demarcation and wall protection, anti-static paints for sensitive electronic equipment areas, acoustic paints where noise reduction is required, weather-resistant exterior coatings capable of withstanding extreme temperatures and monsoon conditions, and aesthetic premium finishes creating a world-class ambience with approved color schemes. All work must comply with DGCA regulations and international aviation safety standards. The contractor must have experience in airport or similar high-security infrastructure projects, coordinate with multiple concurrent contractors on site, work in shifts to maintain construction schedule, complete project within 6 months, and provide 5-year comprehensive warranty. Security clearance for all workers is mandatory.",
+  "documents": [
+    {
+      "url": "https://aai.tenders.gov.in/docs/terminal-blueprint.pdf",
+      "filename": "terminal_layout_plans.pdf",
+      "filetype": "pdf"
+    },
+    {
+      "url": "https://aai.tenders.gov.in/docs/aviation-standards.pdf",
+      "filename": "aviation_safety_compliance.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["airport painting", "fire-retardant paint", "high-traffic coating", "aviation standards", "terminal finishing", "AAI", "Hyderabad airport", "DGCA compliance", "weather-resistant"]
+}

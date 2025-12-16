@@ -1,0 +1,29 @@
+{
+  "id": "RFP-2025-008",
+  "source_url": "https://furniture.procurement.in/wood-finish-rfp",
+  "crawl_timestamp": "2025-12-07T16:45:00Z",
+  "is_rfp": true,
+  "title": "Wood Stains, Varnish and Lacquer Supply for Furniture Manufacturing",
+  "rfp_number": "FURN/FINISH/2025/092",
+  "deadline_date": "2026-01-30T15:30:00Z",
+  "buyer_name": "Godrej Interio",
+  "location": {
+    "country": "India",
+    "city": "Mumbai"
+  },
+  "contact_emails": ["procurement@godrejinterio.com", "woodfinish.tender@godrej.com"],
+  "description": "Godrej Interio, one of India's leading furniture manufacturers, requires high-quality wood finishing products for their manufacturing facilities in Mumbai and surrounding areas. The annual requirement is approximately 50,000 liters across various product categories. Specific requirements include wood stains in multiple shades (walnut, mahogany, teak, oak, cherry, natural) in both water-based and solvent-based formulations, clear polyurethane varnish in gloss, semi-gloss, and matte finishes with excellent clarity and non-yellowing properties, nitrocellulose and polyurethane lacquers for spray application, wood sealers and primers for optimal surface preparation, and specialized products for different wood types (hardwood, softwood, engineered wood, MDF). All products must be fast-drying to optimize production cycles (touch dry within 2-4 hours), provide durable finish resistant to scratches, water, and heat, offer excellent flow and leveling properties for smooth application, and maintain color consistency across batches. Eco-friendly, low-VOC formulations are highly preferred to meet export market requirements and improve workplace safety. Bidders should provide comprehensive technical support including application training for workers, troubleshooting assistance, and color matching services. The contract period is for 2 years with monthly supply based on production schedules. Suppliers must have manufacturing capacity to ensure consistent supply and maintain buffer stock. Product samples and technical data sheets mandatory with bid submission.",
+  "documents": [
+    {
+      "url": "https://furniture.procurement.in/docs/wood-finish-specs.pdf",
+      "filename": "finish_specifications.pdf",
+      "filetype": "pdf"
+    },
+    {
+      "url": "https://furniture.procurement.in/docs/color-chart.pdf",
+      "filename": "color_shade_chart.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["wood stain", "varnish", "lacquer", "furniture finishing", "polyurethane", "wood coating", "Godrej Interio", "nitrocellulose", "fast-drying", "furniture manufacturing"]
+}

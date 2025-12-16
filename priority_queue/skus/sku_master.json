@@ -1,0 +1,7638 @@
+{
+  "brand": "Asian Paints",
+  "total_skus": 144,
+  "sku_master": [
+    {
+      "sku_id": "AP-001",
+      "sku_name": "Asian Paints Economy Variant 1",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 120.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.8,
+          "price_per_sqm": 8.61
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-002",
+      "sku_name": "Asian Paints Economy Variant 2",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 123.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.82,
+          "price_per_sqm": 8.83
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-003",
+      "sku_name": "Asian Paints Economy Variant 3",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 127.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.85,
+          "price_per_sqm": 9.15
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-004",
+      "sku_name": "Asian Paints Economy Variant 4",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 130.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.87,
+          "price_per_sqm": 9.36
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-005",
+      "sku_name": "Asian Paints Economy Variant 5",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 134.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.9,
+          "price_per_sqm": 9.69
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-006",
+      "sku_name": "Asian Paints Economy Variant 6",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 138.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.92,
+          "price_per_sqm": 9.9
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-007",
+      "sku_name": "Asian Paints Economy Variant 7",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 141.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.95,
+          "price_per_sqm": 10.23
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-008",
+      "sku_name": "Asian Paints Economy Variant 8",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 145.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.97,
+          "price_per_sqm": 10.44
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-009",
+      "sku_name": "Asian Paints Economy Variant 9",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 149.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.99,
+          "price_per_sqm": 10.66
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-010",
+      "sku_name": "Asian Paints Economy Variant 10",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 152.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.02,
+          "price_per_sqm": 10.98
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-011",
+      "sku_name": "Asian Paints Economy Variant 11",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 156.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.04,
+          "price_per_sqm": 11.19
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-012",
+      "sku_name": "Asian Paints Economy Variant 12",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Economy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "economy"
+      ],
+      "coverage_sqft_per_litre": 150,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 135,
+        "institutional_price_per_litre": 160.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.07,
+          "price_per_sqm": 11.52
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-013",
+      "sku_name": "Asian Paints Premium Variant 1",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 220.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.52,
+          "price_per_sqm": 16.36
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-014",
+      "sku_name": "Asian Paints Premium Variant 2",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 230.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.59,
+          "price_per_sqm": 17.11
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-015",
+      "sku_name": "Asian Paints Premium Variant 3",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 241.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.67,
+          "price_per_sqm": 17.98
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-016",
+      "sku_name": "Asian Paints Premium Variant 4",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 252.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.74,
+          "price_per_sqm": 18.73
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-017",
+      "sku_name": "Asian Paints Premium Variant 5",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 263.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.82,
+          "price_per_sqm": 19.59
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-018",
+      "sku_name": "Asian Paints Premium Variant 6",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 274.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.89,
+          "price_per_sqm": 20.34
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-019",
+      "sku_name": "Asian Paints Premium Variant 7",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 285.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.97,
+          "price_per_sqm": 21.2
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-020",
+      "sku_name": "Asian Paints Premium Variant 8",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 296.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 2.04,
+          "price_per_sqm": 21.96
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-021",
+      "sku_name": "Asian Paints Premium Variant 9",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 307.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 2.12,
+          "price_per_sqm": 22.82
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-022",
+      "sku_name": "Asian Paints Premium Variant 10",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 318.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 2.19,
+          "price_per_sqm": 23.57
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-023",
+      "sku_name": "Asian Paints Premium Variant 11",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 329.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 2.27,
+          "price_per_sqm": 24.43
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-024",
+      "sku_name": "Asian Paints Premium Variant 12",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Premium",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "premium"
+      ],
+      "coverage_sqft_per_litre": 145,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 250,
+        "institutional_price_per_litre": 340.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 2.34,
+          "price_per_sqm": 25.19
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-025",
+      "sku_name": "Asian Paints Luxury Variant 1",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 450.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.21,
+          "price_per_sqm": 34.55
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-026",
+      "sku_name": "Asian Paints Luxury Variant 2",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 468.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.34,
+          "price_per_sqm": 35.95
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-027",
+      "sku_name": "Asian Paints Luxury Variant 3",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 486.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.47,
+          "price_per_sqm": 37.35
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-028",
+      "sku_name": "Asian Paints Luxury Variant 4",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 504.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.6,
+          "price_per_sqm": 38.75
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-029",
+      "sku_name": "Asian Paints Luxury Variant 5",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 522.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.73,
+          "price_per_sqm": 40.15
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-030",
+      "sku_name": "Asian Paints Luxury Variant 6",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 540.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.86,
+          "price_per_sqm": 41.55
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-031",
+      "sku_name": "Asian Paints Luxury Variant 7",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 559.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.99,
+          "price_per_sqm": 42.95
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-032",
+      "sku_name": "Asian Paints Luxury Variant 8",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 577.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.12,
+          "price_per_sqm": 44.35
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-033",
+      "sku_name": "Asian Paints Luxury Variant 9",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 595.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.25,
+          "price_per_sqm": 45.75
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-034",
+      "sku_name": "Asian Paints Luxury Variant 10",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 613.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.38,
+          "price_per_sqm": 47.15
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-035",
+      "sku_name": "Asian Paints Luxury Variant 11",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 631.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.51,
+          "price_per_sqm": 48.55
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-036",
+      "sku_name": "Asian Paints Luxury Variant 12",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Luxury",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "luxury"
+      ],
+      "coverage_sqft_per_litre": 140,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 600,
+        "institutional_price_per_litre": 650.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.64,
+          "price_per_sqm": 49.94
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-037",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 1",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 480.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.56,
+          "price_per_sqm": 38.32
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-038",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 2",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 490.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.64,
+          "price_per_sqm": 39.18
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-039",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 3",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 501.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.72,
+          "price_per_sqm": 40.04
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-040",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 4",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 512.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.8,
+          "price_per_sqm": 40.9
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-041",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 5",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 523.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.88,
+          "price_per_sqm": 41.76
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-042",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 6",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 534.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.96,
+          "price_per_sqm": 42.63
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-043",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 7",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 545.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.04,
+          "price_per_sqm": 43.49
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-044",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 8",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 556.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.12,
+          "price_per_sqm": 44.35
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-045",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 9",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 567.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.2,
+          "price_per_sqm": 45.21
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-046",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 10",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 578.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.28,
+          "price_per_sqm": 46.07
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-047",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 11",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 589.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.36,
+          "price_per_sqm": 46.93
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-048",
+      "sku_name": "Asian Paints Healthcare Anti-Bacterial Variant 12",
+      "brand": "Asian Paints",
+      "category": "Interior Emulsion",
+      "sub_category": "Healthcare Anti-Bacterial",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": true,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "interior",
+        "healthcare"
+      ],
+      "coverage_sqft_per_litre": 135,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 620,
+        "institutional_price_per_litre": 600.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.44,
+          "price_per_sqm": 47.79
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-049",
+      "sku_name": "Asian Paints Weatherproof Variant 1",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 380.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.04,
+          "price_per_sqm": 32.72
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-050",
+      "sku_name": "Asian Paints Weatherproof Variant 2",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 392.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.14,
+          "price_per_sqm": 33.8
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-051",
+      "sku_name": "Asian Paints Weatherproof Variant 3",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 405.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.24,
+          "price_per_sqm": 34.88
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-052",
+      "sku_name": "Asian Paints Weatherproof Variant 4",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 418.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.35,
+          "price_per_sqm": 36.06
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-053",
+      "sku_name": "Asian Paints Weatherproof Variant 5",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 430.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.45,
+          "price_per_sqm": 37.14
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-054",
+      "sku_name": "Asian Paints Weatherproof Variant 6",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 443.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.55,
+          "price_per_sqm": 38.21
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-055",
+      "sku_name": "Asian Paints Weatherproof Variant 7",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 456.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.65,
+          "price_per_sqm": 39.29
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-056",
+      "sku_name": "Asian Paints Weatherproof Variant 8",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 469.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.75,
+          "price_per_sqm": 40.36
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-057",
+      "sku_name": "Asian Paints Weatherproof Variant 9",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 481.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.85,
+          "price_per_sqm": 41.44
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-058",
+      "sku_name": "Asian Paints Weatherproof Variant 10",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 494.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.96,
+          "price_per_sqm": 42.63
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-059",
+      "sku_name": "Asian Paints Weatherproof Variant 11",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 507.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.06,
+          "price_per_sqm": 43.7
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-060",
+      "sku_name": "Asian Paints Weatherproof Variant 12",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Weatherproof",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "weatherproof"
+      ],
+      "coverage_sqft_per_litre": 125,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 520,
+        "institutional_price_per_litre": 520.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.16,
+          "price_per_sqm": 44.78
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-061",
+      "sku_name": "Asian Paints Elastomeric Variant 1",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 500.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.17,
+          "price_per_sqm": 44.89
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-062",
+      "sku_name": "Asian Paints Elastomeric Variant 2",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 513.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.28,
+          "price_per_sqm": 46.07
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-063",
+      "sku_name": "Asian Paints Elastomeric Variant 3",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 527.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.39,
+          "price_per_sqm": 47.25
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-064",
+      "sku_name": "Asian Paints Elastomeric Variant 4",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 540.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.51,
+          "price_per_sqm": 48.55
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-065",
+      "sku_name": "Asian Paints Elastomeric Variant 5",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 554.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.62,
+          "price_per_sqm": 49.73
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-066",
+      "sku_name": "Asian Paints Elastomeric Variant 6",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 568.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.73,
+          "price_per_sqm": 50.91
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-067",
+      "sku_name": "Asian Paints Elastomeric Variant 7",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 581.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.85,
+          "price_per_sqm": 52.2
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-068",
+      "sku_name": "Asian Paints Elastomeric Variant 8",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 595.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.96,
+          "price_per_sqm": 53.39
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-069",
+      "sku_name": "Asian Paints Elastomeric Variant 9",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 609.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 5.08,
+          "price_per_sqm": 54.68
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-070",
+      "sku_name": "Asian Paints Elastomeric Variant 10",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 622.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 5.19,
+          "price_per_sqm": 55.86
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-071",
+      "sku_name": "Asian Paints Elastomeric Variant 11",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 636.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 5.3,
+          "price_per_sqm": 57.05
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-072",
+      "sku_name": "Asian Paints Elastomeric Variant 12",
+      "brand": "Asian Paints",
+      "category": "Exterior Paint",
+      "sub_category": "Elastomeric",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": true
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "exterior",
+        "elastomeric"
+      ],
+      "coverage_sqft_per_litre": 120,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 640,
+        "institutional_price_per_litre": 650.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 5.42,
+          "price_per_sqm": 58.34
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-073",
+      "sku_name": "Asian Paints Epoxy Variant 1",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 750.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 8.33,
+          "price_per_sqm": 89.66
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-074",
+      "sku_name": "Asian Paints Epoxy Variant 2",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 781.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 8.69,
+          "price_per_sqm": 93.54
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-075",
+      "sku_name": "Asian Paints Epoxy Variant 3",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 813.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 9.04,
+          "price_per_sqm": 97.31
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-076",
+      "sku_name": "Asian Paints Epoxy Variant 4",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 845.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 9.39,
+          "price_per_sqm": 101.07
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-077",
+      "sku_name": "Asian Paints Epoxy Variant 5",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 877.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 9.75,
+          "price_per_sqm": 104.95
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-078",
+      "sku_name": "Asian Paints Epoxy Variant 6",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 909.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 10.1,
+          "price_per_sqm": 108.72
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-079",
+      "sku_name": "Asian Paints Epoxy Variant 7",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 940.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 10.45,
+          "price_per_sqm": 112.48
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-080",
+      "sku_name": "Asian Paints Epoxy Variant 8",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 972.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 10.81,
+          "price_per_sqm": 116.36
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-081",
+      "sku_name": "Asian Paints Epoxy Variant 9",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 1004.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 11.16,
+          "price_per_sqm": 120.13
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-082",
+      "sku_name": "Asian Paints Epoxy Variant 10",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 1036.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 11.52,
+          "price_per_sqm": 124.0
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-083",
+      "sku_name": "Asian Paints Epoxy Variant 11",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 1068.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 11.87,
+          "price_per_sqm": 127.77
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-084",
+      "sku_name": "Asian Paints Epoxy Variant 12",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "Epoxy",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "epoxy"
+      ],
+      "coverage_sqft_per_litre": 90,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1100,
+        "institutional_price_per_litre": 1100.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 12.22,
+          "price_per_sqm": 131.53
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-085",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 1",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 950.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 11.18,
+          "price_per_sqm": 120.34
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-086",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 2",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1009.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 11.87,
+          "price_per_sqm": 127.77
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-087",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 3",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1068.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 12.57,
+          "price_per_sqm": 135.3
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-088",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 4",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1127.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 13.26,
+          "price_per_sqm": 142.73
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-089",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 5",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1186.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 13.96,
+          "price_per_sqm": 150.26
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-090",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 6",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1245.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 14.65,
+          "price_per_sqm": 157.69
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-091",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 7",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1304.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 15.35,
+          "price_per_sqm": 165.23
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-092",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 8",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1363.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 16.04,
+          "price_per_sqm": 172.65
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-093",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 9",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1422.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 16.74,
+          "price_per_sqm": 180.19
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-094",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 10",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1481.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 17.43,
+          "price_per_sqm": 187.61
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-095",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 11",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1540.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 18.13,
+          "price_per_sqm": 195.15
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-096",
+      "sku_name": "Asian Paints PU / Fluoropolymer Variant 12",
+      "brand": "Asian Paints",
+      "category": "Industrial Coating",
+      "sub_category": "PU / Fluoropolymer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": true,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "industrial",
+        "pu"
+      ],
+      "coverage_sqft_per_litre": 85,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1600,
+        "institutional_price_per_litre": 1600.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 18.82,
+          "price_per_sqm": 202.58
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-097",
+      "sku_name": "Asian Paints Fire Retardant Variant 1",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 700.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 7.37,
+          "price_per_sqm": 79.33
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-098",
+      "sku_name": "Asian Paints Fire Retardant Variant 2",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 763.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 8.04,
+          "price_per_sqm": 86.54
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-099",
+      "sku_name": "Asian Paints Fire Retardant Variant 3",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 827.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 8.71,
+          "price_per_sqm": 93.75
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-100",
+      "sku_name": "Asian Paints Fire Retardant Variant 4",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 890.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 9.38,
+          "price_per_sqm": 100.97
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-101",
+      "sku_name": "Asian Paints Fire Retardant Variant 5",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 954.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 10.05,
+          "price_per_sqm": 108.18
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-102",
+      "sku_name": "Asian Paints Fire Retardant Variant 6",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 1018.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 10.72,
+          "price_per_sqm": 115.39
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-103",
+      "sku_name": "Asian Paints Fire Retardant Variant 7",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 1081.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 11.39,
+          "price_per_sqm": 122.6
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-104",
+      "sku_name": "Asian Paints Fire Retardant Variant 8",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 1145.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 12.06,
+          "price_per_sqm": 129.81
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-105",
+      "sku_name": "Asian Paints Fire Retardant Variant 9",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 1209.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 12.73,
+          "price_per_sqm": 137.02
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-106",
+      "sku_name": "Asian Paints Fire Retardant Variant 10",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 1272.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 13.4,
+          "price_per_sqm": 144.24
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-107",
+      "sku_name": "Asian Paints Fire Retardant Variant 11",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 1336.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 14.07,
+          "price_per_sqm": 151.45
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-108",
+      "sku_name": "Asian Paints Fire Retardant Variant 12",
+      "brand": "Asian Paints",
+      "category": "Specialty Coating",
+      "sub_category": "Fire Retardant",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": true,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "specialty",
+        "fire"
+      ],
+      "coverage_sqft_per_litre": 95,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 1400,
+        "institutional_price_per_litre": 1400.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 14.74,
+          "price_per_sqm": 158.66
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-109",
+      "sku_name": "Asian Paints Texture / Metallic Variant 1",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 900.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 11.25,
+          "price_per_sqm": 121.09
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-110",
+      "sku_name": "Asian Paints Texture / Metallic Variant 2",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1018.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 12.73,
+          "price_per_sqm": 137.02
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-111",
+      "sku_name": "Asian Paints Texture / Metallic Variant 3",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1136.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 14.2,
+          "price_per_sqm": 152.85
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-112",
+      "sku_name": "Asian Paints Texture / Metallic Variant 4",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1254.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 15.68,
+          "price_per_sqm": 168.78
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-113",
+      "sku_name": "Asian Paints Texture / Metallic Variant 5",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1372.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 17.16,
+          "price_per_sqm": 184.71
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-114",
+      "sku_name": "Asian Paints Texture / Metallic Variant 6",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1490.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 18.64,
+          "price_per_sqm": 200.64
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-115",
+      "sku_name": "Asian Paints Texture / Metallic Variant 7",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1609.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 20.11,
+          "price_per_sqm": 216.46
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-116",
+      "sku_name": "Asian Paints Texture / Metallic Variant 8",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1727.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 21.59,
+          "price_per_sqm": 232.39
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-117",
+      "sku_name": "Asian Paints Texture / Metallic Variant 9",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1845.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 23.07,
+          "price_per_sqm": 248.32
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-118",
+      "sku_name": "Asian Paints Texture / Metallic Variant 10",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 1963.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 24.55,
+          "price_per_sqm": 264.25
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-119",
+      "sku_name": "Asian Paints Texture / Metallic Variant 11",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 2081.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 26.02,
+          "price_per_sqm": 280.08
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-120",
+      "sku_name": "Asian Paints Texture / Metallic Variant 12",
+      "brand": "Asian Paints",
+      "category": "Decorative Finish",
+      "sub_category": "Texture / Metallic",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "decorative",
+        "texture"
+      ],
+      "coverage_sqft_per_litre": 80,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 2200,
+        "institutional_price_per_litre": 2200.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 27.5,
+          "price_per_sqm": 296.01
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-121",
+      "sku_name": "Asian Paints Damp Proofing Variant 1",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 300.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.0,
+          "price_per_sqm": 32.29
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-122",
+      "sku_name": "Asian Paints Damp Proofing Variant 2",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 313.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.14,
+          "price_per_sqm": 33.8
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-123",
+      "sku_name": "Asian Paints Damp Proofing Variant 3",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 327.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.27,
+          "price_per_sqm": 35.2
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-124",
+      "sku_name": "Asian Paints Damp Proofing Variant 4",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 340.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.41,
+          "price_per_sqm": 36.7
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-125",
+      "sku_name": "Asian Paints Damp Proofing Variant 5",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 354.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.55,
+          "price_per_sqm": 38.21
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-126",
+      "sku_name": "Asian Paints Damp Proofing Variant 6",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 368.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.68,
+          "price_per_sqm": 39.61
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-127",
+      "sku_name": "Asian Paints Damp Proofing Variant 7",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 381.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.82,
+          "price_per_sqm": 41.12
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-128",
+      "sku_name": "Asian Paints Damp Proofing Variant 8",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 395.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 3.95,
+          "price_per_sqm": 42.52
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-129",
+      "sku_name": "Asian Paints Damp Proofing Variant 9",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 409.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.09,
+          "price_per_sqm": 44.02
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-130",
+      "sku_name": "Asian Paints Damp Proofing Variant 10",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 422.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.23,
+          "price_per_sqm": 45.53
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-131",
+      "sku_name": "Asian Paints Damp Proofing Variant 11",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 436.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.36,
+          "price_per_sqm": 46.93
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-132",
+      "sku_name": "Asian Paints Damp Proofing Variant 12",
+      "brand": "Asian Paints",
+      "category": "Waterproofing",
+      "sub_category": "Damp Proofing",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "waterproofing",
+        "damp"
+      ],
+      "coverage_sqft_per_litre": 100,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 450,
+        "institutional_price_per_litre": 450.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 4.5,
+          "price_per_sqm": 48.44
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-133",
+      "sku_name": "Asian Paints Primer Variant 1",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 140.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.88,
+          "price_per_sqm": 9.47
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-134",
+      "sku_name": "Asian Paints Primer Variant 2",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 147.27,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.92,
+          "price_per_sqm": 9.9
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-135",
+      "sku_name": "Asian Paints Primer Variant 3",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 154.55,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 0.97,
+          "price_per_sqm": 10.44
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-136",
+      "sku_name": "Asian Paints Primer Variant 4",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 161.82,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.01,
+          "price_per_sqm": 10.87
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-137",
+      "sku_name": "Asian Paints Primer Variant 5",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 169.09,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.06,
+          "price_per_sqm": 11.41
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-138",
+      "sku_name": "Asian Paints Primer Variant 6",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 176.36,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.1,
+          "price_per_sqm": 11.84
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-139",
+      "sku_name": "Asian Paints Primer Variant 7",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 183.64,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.15,
+          "price_per_sqm": 12.38
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-140",
+      "sku_name": "Asian Paints Primer Variant 8",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 190.91,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.19,
+          "price_per_sqm": 12.81
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-141",
+      "sku_name": "Asian Paints Primer Variant 9",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 198.18,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.24,
+          "price_per_sqm": 13.35
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-142",
+      "sku_name": "Asian Paints Primer Variant 10",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 205.45,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.28,
+          "price_per_sqm": 13.78
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-143",
+      "sku_name": "Asian Paints Primer Variant 11",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 212.73,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.33,
+          "price_per_sqm": 14.32
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    },
+    {
+      "sku_id": "AP-144",
+      "sku_name": "Asian Paints Primer Variant 12",
+      "brand": "Asian Paints",
+      "category": "Primer / Sealer",
+      "sub_category": "Primer",
+      "application_segments": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Healthcare",
+        "Hospitality"
+      ],
+      "surface_types": [
+        "Interior Wall",
+        "Exterior Wall",
+        "Concrete",
+        "Metal"
+      ],
+      "key_properties": {
+        "anti_bacterial": false,
+        "anti_fungal": true,
+        "low_voc": true,
+        "fire_retardant": false,
+        "anti_static": false,
+        "washability_cycles": 15000,
+        "weather_resistance": false
+      },
+      "certifications": [
+        "GreenPro"
+      ],
+      "recommended_rfp_tags": [
+        "primer",
+        "primer"
+      ],
+      "coverage_sqft_per_litre": 160,
+      "pack_sizes_litre": [
+        4,
+        10,
+        20
+      ],
+      "pricing_inr": {
+        "mrp_per_litre": 220,
+        "institutional_price_per_litre": 220.0,
+        "bulk_discount_threshold_litres": 4000,
+        "derived_price": {
+          "price_per_sqft": 1.38,
+          "price_per_sqm": 14.85
+        }
+      },
+      "expected_life_years": 8,
+      "warranty_years": 5
+    }
+  ]
+}

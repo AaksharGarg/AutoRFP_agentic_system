@@ -1,0 +1,24 @@
+{
+  "id": null,
+  "source_url": "https://luxury-interiors.com/texture-paint-rfp",
+  "crawl_timestamp": "2025-12-07T14:00:00Z",
+  "is_rfp": false,
+  "title": "Premium Decorative Texture Paint for Luxury Villa Project",
+  "rfp_number": "LUX/TEX/2025/567",
+  "deadline_date": "2026-01-22T17:00:00Z",
+  "buyer_name": "Oberoi Realty",
+  "location": {
+    "country": "India",
+    "city": "Mumbai"
+  },
+  "contact_emails": ["interiors@oberoi-realty.com"],
+  "description": "Oberoi Realty is developing an ultra-luxury villa project 'Oberoi Garden City Villas' in Mumbai featuring 25 exclusive independent villas with cutting-edge architectural design and premium interior finishes. Each villa ranges from 4,500 to 8,000 sq ft with high ceilings, large walls, and contemporary design requiring exceptional decorative wall treatments. The requirement includes premium texture finishes such as Italian stucco, Venetian plaster, and suede effects for feature walls and living areas, metallic and pearl finish paints in gold, silver, bronze, and copper tones for accent walls and decorative elements, designer specialty coatings that create visual effects like stone texture, concrete finish, rustic wood look, and marble effect, silk and satin finish emulsions for bedroom walls creating luxurious sheen, and customized color palettes developed in consultation with renowned interior designers. The total coverage area for all 25 villas is approximately 60,000 sq ft of decorative wall treatments. High-end imported products from European or American brands are acceptable and preferred for specific applications. All finishes must be durable, washable, and maintain their aesthetic appeal over time. The contractor should have in-house specialized artisans trained in applying various decorative techniques, provide extensive portfolio of completed luxury projects, offer customization and mock-up preparation before final application, and work closely with interior designers throughout the project. Each villa will have unique finish combinations requiring flexibility and creativity. The project timeline is 10 months with phased completion of 5 villas every 2 months. Quality and aesthetics take precedence over cost. Experience in ultra-luxury residential or hospitality projects with similar scope is mandatory. Detailed material specifications, application techniques, and maintenance guidelines must be provided.",
+  "documents": [
+    {
+      "url": "https://luxury-interiors.com/docs/villa-designs.pdf",
+      "filename": "interior_design_concepts.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["texture paint", "decorative coating", "luxury finish", "metallic paint", "designer walls", "marble effect", "Venetian plaster", "Italian stucco", "Oberoi Realty", "premium villas"]
+}

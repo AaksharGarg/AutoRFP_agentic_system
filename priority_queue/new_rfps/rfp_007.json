@@ -1,0 +1,24 @@
+{
+  "id": "RFP-2025-007",
+  "source_url": "https://realestate-tenders.com/residential-paint",
+  "crawl_timestamp": "2025-12-08T10:00:00Z",
+  "is_rfp": true,
+  "title": null,
+  "rfp_number": "REAL/PAINT/2025/445",
+  "deadline_date": "2026-01-18T17:00:00Z",
+  "buyer_name": "DLF Limited",
+  "location": {
+    "country": "India",
+    "city": "Gurugram"
+  },
+  "contact_emails": [],
+  "description": "DLF Limited seeks premium quality painting solutions for their upcoming luxury residential project comprising 500 high-end apartments spread across 5 towers in Gurugram. The project requires top-tier interior emulsion paints in various color palettes for living rooms, bedrooms, and common areas, designer texture paints and special finishes for feature walls and accent areas, moisture-resistant paints for kitchens and bathrooms, and comprehensive external facade treatment including weather-proof coatings and waterproofing solutions. The total interior area is approximately 750,000 sq ft and external facade area is 200,000 sq ft. Apartments are categorized into 2BHK, 3BHK, and 4BHK units, each requiring customized color schemes as per approved interior design plans. Bidders should offer multiple premium brands and product lines, provide extensive color consultation services, ensure superior finish quality meeting luxury standards, and complete work as per phased handover schedule over 8 months. The external facade requires specialized weather-proof elastomeric coatings that can withstand harsh weather conditions, UV resistance, and maintain aesthetic appeal for minimum 10 years. All products must be eco-friendly with low VOC content. Experience in luxury residential projects mandatory.",
+  "documents": [
+    {
+      "url": null,
+      "filename": "project_details.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["residential paint", "luxury apartments", "texture paint", "waterproofing", "facade coating", "DLF", "premium emulsion", "elastomeric coating"]
+}

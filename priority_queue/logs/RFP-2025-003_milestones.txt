@@ -1,0 +1,12 @@
+[START] Processing RFP
+Extracting specs...
+Extracting PDF text...
+Computing scores...
+[ERROR] can only concatenate str (not "NoneType") to str
+Traceback (most recent call last):
+  File "/home/aakshar/rfp-crawler/AutoRFP_agentic_system/priority_queue/src/runner.py", line 98, in process_rfp
+    text_score = compute_text_score(rfp, pdf_text)
+  File "/home/aakshar/rfp-crawler/AutoRFP_agentic_system/priority_queue/src/scorers.py", line 89, in compute_text_score
+    text = (rfp.get("title", "") + " " + rfp.get("description", "") + " " + extracted_pdf_text).strip()
+TypeError: can only concatenate str (not "NoneType") to str
+

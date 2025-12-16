@@ -1,0 +1,29 @@
+{
+  "id": "RFP-2025-004",
+  "source_url": "https://industrialtenders.in/coating-rfp-2025",
+  "crawl_timestamp": "2025-12-06T11:45:00Z",
+  "is_rfp": true,
+  "title": "Protective Coating for Chemical Storage Tanks and Pipeline Infrastructure",
+  "rfp_number": "IND/COAT/2025/156",
+  "deadline_date": "2026-02-10T15:00:00Z",
+  "buyer_name": "Reliance Industries Limited",
+  "location": {
+    "country": "India",
+    "city": "Jamnagar"
+  },
+  "contact_emails": ["industrial.procurement@ril.com", "coating.rfp@reliance.net"],
+  "description": "Reliance Industries Limited, Jamnagar Refinery Complex, requires high-performance industrial protective coating systems for critical infrastructure assets. The project scope encompasses 25 large-capacity chemical storage tanks (ranging from 50,000 to 200,000 liters each) and approximately 5 kilometers of above-ground pipeline infrastructure. The coating system must provide comprehensive protection against highly corrosive chemicals including acids, alkalis, and petroleum products, withstand operating temperatures ranging from -20°C to 150°C, resist UV degradation and weathering in harsh coastal-industrial environment, and prevent electrochemical corrosion. The work includes complete surface preparation using grit blasting to SA 2.5 standard, application of zinc-rich epoxy primer (minimum 75 microns DFT), intermediate epoxy coating (150-200 microns DFT), and polyurethane or fluoropolymer topcoat (75-100 microns DFT). All applicators must hold ISO 9001, ISO 14001, and NACE certification. The coating system must achieve a minimum 15-year service life. Detailed surface preparation and application procedures, quality control measures, and inspection protocols must be submitted. Work to be completed during scheduled plant shutdown periods to minimize operational disruption.",
+  "documents": [
+    {
+      "url": "https://industrialtenders.in/docs/tank-coating-specs.pdf",
+      "filename": "technical_specifications_tanks.pdf",
+      "filetype": "pdf"
+    },
+    {
+      "url": "https://industrialtenders.in/docs/safety-protocol.pdf",
+      "filename": "safety_and_compliance.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["industrial coating", "protective paint", "corrosion resistant", "chemical storage", "pipeline coating", "high temperature", "epoxy", "polyurethane", "NACE", "refinery"]
+}

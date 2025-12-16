@@ -1,0 +1,24 @@
+{
+  "id": "RFP-2025-013",
+  "source_url": "https://renewable-energy.tenders.in/solar-rfp-2025",
+  "crawl_timestamp": "2025-12-08T11:00:00Z",
+  "is_rfp": true,
+  "title": "Design, Supply and Installation of Rooftop Solar Power Plant",
+  "rfp_number": "SOLAR/INST/2025/445",
+  "deadline_date": "2026-02-20T17:00:00Z",
+  "buyer_name": "Tata Motors Limited",
+  "location": {
+    "country": "India",
+    "city": "Pune"
+  },
+  "contact_emails": ["green.energy@tatamotors.com"],
+  "description": "Tata Motors Limited invites proposals for turnkey design, engineering, supply, installation, testing, and commissioning of grid-connected rooftop solar photovoltaic power plants with an aggregate capacity of 1.5 MW DC across their manufacturing facilities in Pune. The project aims to reduce carbon footprint and achieve renewable energy targets while generating cost savings on electricity bills. The scope encompasses detailed site survey and shadow analysis for 5 factory rooftops, structural assessment and load calculations to ensure roof integrity, design and engineering of complete solar PV system, supply of high-efficiency monocrystalline or polycrystalline solar modules (minimum 21% efficiency) from Tier-1 manufacturers, string inverters or central inverters from reputed brands with minimum 98% efficiency, module mounting structures - hot-dip galvanized steel or aluminum compatible with various roof types, AC and DC cabling, junction boxes, earthing, and lightning protection, remote monitoring system with real-time generation data and alerts, net metering arrangement and grid synchronization as per utility norms, and complete installation, testing, and commissioning. All equipment must be MNRE approved and carry relevant certifications (IEC, BIS). The solar modules should come with 25-year performance warranty (minimum 80% efficiency at year 25) and 10-year product warranty. Inverters should have 5-year standard warranty extendable to 10 years. The EPC contractor must provide comprehensive O&M services for 5 years including module cleaning, preventive maintenance, breakdown maintenance, and performance monitoring. The system should achieve grid connectivity within 6 months of contract award. Expected annual generation should be clearly mentioned with performance guarantees. Contractor must have completed minimum 5 MW of rooftop solar projects and have an in-house team of qualified electrical engineers and certified solar installers. Financial strength and adequate manpower mobilization capability are essential.",
+  "documents": [
+    {
+      "url": "https://renewable-energy.tenders.in/docs/site-survey.pdf",
+      "filename": "site_assessment.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["solar power", "rooftop solar", "renewable energy", "photovoltaic", "grid connectivity", "Tata Motors", "1.5 MW", "MNRE", "net metering", "EPC contractor"]
+}

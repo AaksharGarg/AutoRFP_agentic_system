@@ -1,0 +1,29 @@
+{
+  "id": "RFP-2025-005",
+  "source_url": "https://education.tenders.gov.in/school-paint-rfp",
+  "crawl_timestamp": "2025-12-08T08:00:00Z",
+  "is_rfp": true,
+  "title": "Supply of Child-Safe Paints for 50 Government Schools",
+  "rfp_number": "EDU/PAINT/2025/234",
+  "deadline_date": "2026-01-25T17:00:00Z",
+  "buyer_name": "Department of Education, Karnataka",
+  "location": {
+    "country": "India",
+    "city": "Bengaluru"
+  },
+  "contact_emails": ["tenders@education.karnataka.gov.in"],
+  "description": "The Karnataka Department of Education invites bids for bulk procurement and application of child-safe, non-toxic paints for 50 government primary and secondary schools across Bengaluru district. The total coverage area is approximately 200,000 sq ft including classrooms, corridors, common areas, libraries, and administrative offices. All paints must be completely lead-free (zero lead content), formulated with low or zero VOC emissions, non-toxic and safe for children's health, washable and stain-resistant for easy maintenance, quick-drying with minimal odor, and certified to meet IS 13730 or equivalent international standards. Bright, vibrant colors are strongly preferred to create stimulating learning environments - including shades of yellow, blue, green, orange, and white. The scope includes surface preparation, minor wall repairs, application of primer and two coats of finish paint. Bidders must supply color charts and obtain approval from school principals before application. Work must be completed during summer vacation period (April-May 2026) to avoid disruption to classes. The supplier should provide detailed material composition certificates and safety data sheets. Experience in institutional painting projects and capacity to handle multiple sites simultaneously is essential. A 3-year warranty against peeling, fading, or defects is required.",
+  "documents": [
+    {
+      "url": "https://education.tenders.gov.in/docs/school-list.pdf",
+      "filename": "school_locations_list.pdf",
+      "filetype": "pdf"
+    },
+    {
+      "url": "https://education.tenders.gov.in/docs/paint-safety-specs.pdf",
+      "filename": "child_safety_requirements.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["child-safe paint", "school painting", "non-toxic", "washable paint", "educational institution", "lead-free", "low VOC", "Karnataka education", "government schools"]
+}

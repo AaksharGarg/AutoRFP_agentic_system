@@ -1,0 +1,29 @@
+{
+  "id": "RFP-2025-012",
+  "source_url": "https://infrastructure.gov.in/steel-coating-rfp",
+  "crawl_timestamp": "2025-12-06T15:10:00Z",
+  "is_rfp": true,
+  "title": "Anti-Corrosive Coating for Steel Bridge Infrastructure",
+  "rfp_number": "INFRA/COAT/2025/089",
+  "deadline_date": "2026-02-15T16:30:00Z",
+  "buyer_name": "National Highways Authority of India",
+  "location": {
+    "country": "India",
+    "city": "Kolkata"
+  },
+  "contact_emails": ["tenders@nhai.gov.in", "bridge.maintenance@nhai.in"],
+  "description": "National Highways Authority of India (NHAI) seeks specialized contractors for heavy-duty anti-corrosive protective coating of the Hooghly River steel bridge structures near Kolkata. This critical infrastructure maintenance project covers approximately 30,000 square meters of steel surface area including main girders, cross-beams, trusses, deck supports, and ancillary steel structures. The bridge is located in a challenging coastal environment with high humidity, salt-laden atmosphere, and industrial pollution, requiring superior corrosion protection systems. The comprehensive scope includes complete removal of existing failed coatings, rust, and mill scale using ultra-high pressure water jetting or abrasive blasting to achieve SA 2.5 cleanliness standard as per ISO 8501-1, application of inorganic zinc-rich epoxy primer (minimum 75 microns DFT) for galvanic protection, epoxy intermediate coat (150-200 microns DFT) for enhanced barrier protection and surface build-up, and polyurethane or acrylic polyurethane topcoat (75-100 microns DFT) with excellent UV resistance and color retention. Total dry film thickness should be minimum 300 microns. The coating system must be certified for C5-M marine/industrial environment as per ISO 12944, achieve minimum 15-year service life without major maintenance, withstand temperature variations from 5°C to 50°C, resist salt spray test for 3000 hours (ASTM B117), and maintain adhesion after immersion and humidity testing. Work must be executed during favorable weather conditions with strict quality control including DFT measurements, adhesion tests, and holiday detection at 100% coverage. All workers must be NACE Level 2 certified coating inspectors supervised by NACE Level 3 inspector. Traffic disruption should be minimized by working in phases. Contractor must have successfully completed similar bridge coating projects of minimum 20,000 sq meters in the last 5 years. Comprehensive safety plan for working at heights and over water is mandatory.",
+  "documents": [
+    {
+      "url": "https://infrastructure.gov.in/docs/bridge-assessment.pdf",
+      "filename": "structural_assessment_report.pdf",
+      "filetype": "pdf"
+    },
+    {
+      "url": "https://infrastructure.gov.in/docs/coating-standards.pdf",
+      "filename": "technical_standards.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["steel coating", "anti-corrosive", "bridge infrastructure", "zinc primer", "epoxy coating", "rust protection", "NHAI", "marine environment", "ISO 12944", "polyurethane topcoat"]
+}

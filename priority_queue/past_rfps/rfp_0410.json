@@ -1,0 +1,78 @@
+{
+  "id": "HIST-RFP-0410",
+  "source_url": "https://tenders.gov.in/rfp/commercial-paint-2025",
+  "crawl_timestamp": "2025-12-15T10:00:00Z",
+  "is_rfp": true,
+  "title": "Supply and Application of Interior and Exterior Paints for Commercial Complex",
+  "rfp_number": "SYN/AP/2025/0410",
+  "deadline_date": "2026-02-15T17:00:00Z",
+  "buyer_name": "SmartCity SPV",
+  "location": {
+    "country": "India",
+    "city": "Chennai"
+  },
+  "contact_emails": [
+    "procurement@pwdmumbai.gov.in",
+    "tender.paint@maharashtra.gov.in"
+  ],
+  "description": "The Public Works Department of Maharashtra invites proposals for comprehensive painting services for a newly constructed 50,000 sq ft commercial complex in Mumbai. The scope includes supply and application of premium quality interior emulsion paints for office spaces, corridors, and common areas, as well as exterior weather-proof paints for the building facade. Additional requirements include protective coatings for metal fixtures and railings, surface preparation work including filling, sanding, and priming. The contractor must provide eco-friendly, low VOC (Volatile Organic Compounds) products that comply with environmental standards. A 5-year warranty on workmanship and paint durability is mandatory. The project must be completed within 90 days of contract award. Bidders should have prior experience in commercial building projects of similar scale and must provide samples and technical data sheets for all proposed products.",
+  "documents": [
+    {
+      "url": "https://tenders.gov.in/docs/rfp-001-specs.pdf",
+      "filename": "technical_specifications.pdf",
+      "filetype": "pdf"
+    },
+    {
+      "url": "https://tenders.gov.in/docs/rfp-001-terms.pdf",
+      "filename": "terms_and_conditions.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": [
+    "interior paint",
+    "exterior paint",
+    "commercial building",
+    "weather-proof coating",
+    "eco-friendly",
+    "low VOC",
+    "protective coating",
+    "Maharashtra PWD"
+  ],
+  "outcome": "Lost",
+  "sku_solution": {
+    "selected_skus": [
+      {
+        "sku_id": "AP-069",
+        "sku_name": "Asian Paints Elastomeric Variant 9",
+        "category": "Exterior Paint",
+        "sub_category": "Elastomeric",
+        "area_covered_sqft": 13729,
+        "quantity_litres": 114.41,
+        "unit_price_per_litre": 609.09,
+        "cost_inr": 69685.99
+      },
+      {
+        "sku_id": "AP-090",
+        "sku_name": "Asian Paints PU / Fluoropolymer Variant 6",
+        "category": "Industrial Coating",
+        "sub_category": "PU / Fluoropolymer",
+        "area_covered_sqft": 23201,
+        "quantity_litres": 272.95,
+        "unit_price_per_litre": 1245.45,
+        "cost_inr": 339945.58
+      },
+      {
+        "sku_id": "AP-061",
+        "sku_name": "Asian Paints Elastomeric Variant 1",
+        "category": "Exterior Paint",
+        "sub_category": "Elastomeric",
+        "area_covered_sqft": 46807,
+        "quantity_litres": 390.06,
+        "unit_price_per_litre": 500.0,
+        "cost_inr": 195030.0
+      }
+    ],
+    "total_material_cost_inr": 604661.57,
+    "pricing_basis": "institutional"
+  }
+}

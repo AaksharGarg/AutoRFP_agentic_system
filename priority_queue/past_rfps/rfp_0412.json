@@ -1,0 +1,98 @@
+{
+  "id": "HIST-RFP-0412",
+  "source_url": "https://tenders.gov.in/rfp/commercial-paint-2025",
+  "crawl_timestamp": "2025-12-15T10:00:00Z",
+  "is_rfp": true,
+  "title": "Supply and Application of Interior and Exterior Paints for Commercial Complex",
+  "rfp_number": "SYN/AP/2025/0412",
+  "deadline_date": "2026-02-15T17:00:00Z",
+  "buyer_name": "Luxury Living Developers",
+  "location": {
+    "country": "India",
+    "city": "Mumbai"
+  },
+  "contact_emails": [
+    "procurement@pwdmumbai.gov.in",
+    "tender.paint@maharashtra.gov.in"
+  ],
+  "description": "The Public Works Department of Maharashtra invites proposals for comprehensive painting services for a newly constructed 50,000 sq ft commercial complex in Mumbai. The scope includes supply and application of premium quality interior emulsion paints for office spaces, corridors, and common areas, as well as exterior weather-proof paints for the building facade. Additional requirements include protective coatings for metal fixtures and railings, surface preparation work including filling, sanding, and priming. The contractor must provide eco-friendly, low VOC (Volatile Organic Compounds) products that comply with environmental standards. A 5-year warranty on workmanship and paint durability is mandatory. The project must be completed within 90 days of contract award. Bidders should have prior experience in commercial building projects of similar scale and must provide samples and technical data sheets for all proposed products.",
+  "documents": [
+    {
+      "url": "https://tenders.gov.in/docs/rfp-001-specs.pdf",
+      "filename": "technical_specifications.pdf",
+      "filetype": "pdf"
+    },
+    {
+      "url": "https://tenders.gov.in/docs/rfp-001-terms.pdf",
+      "filename": "terms_and_conditions.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": [
+    "interior paint",
+    "exterior paint",
+    "commercial building",
+    "weather-proof coating",
+    "eco-friendly",
+    "low VOC",
+    "protective coating",
+    "Maharashtra PWD"
+  ],
+  "outcome": "Lost",
+  "sku_solution": {
+    "selected_skus": [
+      {
+        "sku_id": "AP-063",
+        "sku_name": "Asian Paints Elastomeric Variant 3",
+        "category": "Exterior Paint",
+        "sub_category": "Elastomeric",
+        "area_covered_sqft": 47978,
+        "quantity_litres": 399.82,
+        "unit_price_per_litre": 527.27,
+        "cost_inr": 210813.09
+      },
+      {
+        "sku_id": "AP-014",
+        "sku_name": "Asian Paints Premium Variant 2",
+        "category": "Interior Emulsion",
+        "sub_category": "Premium",
+        "area_covered_sqft": 26022,
+        "quantity_litres": 179.46,
+        "unit_price_per_litre": 230.91,
+        "cost_inr": 41439.11
+      },
+      {
+        "sku_id": "AP-117",
+        "sku_name": "Asian Paints Texture / Metallic Variant 9",
+        "category": "Decorative Finish",
+        "sub_category": "Texture / Metallic",
+        "area_covered_sqft": 32547,
+        "quantity_litres": 406.84,
+        "unit_price_per_litre": 1845.45,
+        "cost_inr": 750802.88
+      },
+      {
+        "sku_id": "AP-024",
+        "sku_name": "Asian Paints Premium Variant 12",
+        "category": "Interior Emulsion",
+        "sub_category": "Premium",
+        "area_covered_sqft": 54841,
+        "quantity_litres": 378.21,
+        "unit_price_per_litre": 340.0,
+        "cost_inr": 128591.4
+      },
+      {
+        "sku_id": "AP-133",
+        "sku_name": "Asian Paints Primer Variant 1",
+        "category": "Primer / Sealer",
+        "sub_category": "Primer",
+        "area_covered_sqft": 21073,
+        "quantity_litres": 131.71,
+        "unit_price_per_litre": 140.0,
+        "cost_inr": 18439.4
+      }
+    ],
+    "total_material_cost_inr": 1150085.88,
+    "pricing_basis": "institutional"
+  }
+}

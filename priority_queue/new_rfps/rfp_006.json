@@ -1,0 +1,24 @@
+{
+  "id": "RFP-2025-006",
+  "source_url": "https://healthtenders.org/medical-equipment-2025",
+  "crawl_timestamp": "2025-12-05T13:30:00Z",
+  "is_rfp": true,
+  "title": "Procurement of Advanced MRI and CT Scan Machines",
+  "rfp_number": "MED/EQUIP/2025/078",
+  "deadline_date": "2026-02-28T16:00:00Z",
+  "buyer_name": "AIIMS, New Delhi",
+  "location": {
+    "country": "India",
+    "city": "New Delhi"
+  },
+  "contact_emails": ["procurement@aiims.edu"],
+  "description": "All India Institute of Medical Sciences (AIIMS), New Delhi, seeks to procure state-of-the-art medical imaging equipment to upgrade its radiology department and enhance diagnostic capabilities. The requirement includes one 3 Tesla MRI (Magnetic Resonance Imaging) machine with advanced imaging protocols for neurological, musculoskeletal, and cardiac imaging, and one 128-slice CT (Computed Tomography) scanner with dual energy imaging and cardiac capabilities. Both machines must be from reputed international manufacturers with FDA approval and CE certification. The scope includes complete equipment supply, site preparation and civil work requirements, installation and commissioning, comprehensive training for radiologists and technicians (minimum 5 days on-site), and a 5-year comprehensive annual maintenance contract with guaranteed uptime of 95%. The equipment should have the latest software with regular updates included, dose optimization features for patient safety, and DICOM compatibility with existing hospital PACS system. Bidders must provide detailed technical specifications, installation timelines (maximum 6 months from order), and references from at least 3 major hospitals in India where similar equipment is installed. The machines should come with a comprehensive warranty covering all parts and labor. On-site spare parts inventory and 24/7 service support are mandatory requirements.",
+  "documents": [
+    {
+      "url": "https://healthtenders.org/docs/mri-specifications.pdf",
+      "filename": "mri_technical_specs.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["MRI machine", "CT scanner", "medical equipment", "imaging", "healthcare technology", "radiology", "3 Tesla MRI", "128-slice CT", "AIIMS", "diagnostic equipment"]
+}

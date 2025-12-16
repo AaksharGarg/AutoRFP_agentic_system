@@ -1,0 +1,18 @@
+{
+  "id": "RFP-2025-003",
+  "source_url": "https://techprocure.com/rfp/it-infra-2025",
+  "crawl_timestamp": "2025-12-08T09:15:00Z",
+  "is_rfp": true,
+  "title": "Enterprise Resource Planning Software Implementation",
+  "rfp_number": "IT/ERP/2025/089",
+  "deadline_date": "Invalid Date Format",
+  "buyer_name": "Tech Solutions Pvt Ltd",
+  "location": {
+    "country": "India",
+    "city": null
+  },
+  "contact_emails": ["procurement@techsolutions", "invalid-email"],
+  "description": null,
+  "documents": [],
+  "keywords": ["ERP", "software", "IT infrastructure", "cloud computing"]
+}

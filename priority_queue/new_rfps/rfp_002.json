@@ -1,0 +1,24 @@
+{
+  "id": "RFP-2025-002",
+  "source_url": "https://medicalprocurement.org/rfp/hospital-paint",
+  "crawl_timestamp": "2025-12-07T14:20:00Z",
+  "is_rfp": true,
+  "title": "Anti-bacterial Paint and Wall Coating Services for Multi-Specialty Hospital",
+  "rfp_number": "HOSP/DELHI/2025/042",
+  "deadline_date": "2026-01-20T16:30:00Z",
+  "buyer_name": "Apollo Hospitals, Delhi",
+  "location": {
+    "country": "India",
+    "city": "New Delhi"
+  },
+  "contact_emails": ["procurement@apollodelhi.com"],
+  "description": "Apollo Hospitals Delhi requires specialized anti-bacterial and anti-fungal paint solutions for comprehensive interior wall treatment covering approximately 80,000 sq ft across multiple floors and departments. The project encompasses critical areas including 4 operation theaters, 100 patient rooms, ICU units, corridors, waiting areas, and administrative spaces. All products must meet stringent healthcare standards and possess certifications for hospital use. The paints must be resistant to frequent cleaning with hospital-grade disinfectants and chemical agents, provide a smooth non-porous surface that prevents microbial growth, and be easy to maintain. Special attention required for OT areas with specific color requirements (typically light green or blue) and enhanced anti-microbial properties. The successful bidder must be a certified installer with experience in healthcare facilities, provide material safety data sheets, ensure zero disruption to hospital operations during application, and complete work in phases. A 7-year performance warranty is mandatory. Products should be low-odor or odorless and quick-drying to minimize patient discomfort.",
+  "documents": [
+    {
+      "url": "https://medicalprocurement.org/docs/hospital-specs.pdf",
+      "filename": "healthcare_paint_requirements.pdf",
+      "filetype": "pdf"
+    }
+  ],
+  "keywords": ["anti-bacterial paint", "hospital coating", "healthcare", "anti-fungal", "medical facility", "hygiene", "operation theater", "ICU", "disinfectant resistant"]
+}
