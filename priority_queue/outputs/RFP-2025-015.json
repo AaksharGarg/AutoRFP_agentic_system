@@ -62,9 +62,14 @@
     "spec_score": 0.0,
     "text_score": 0.7999999999999989,
     "vendor_score": 0.0,
-    "urgency_score": 0.9983878472514738,
+    "urgency_score": 0.9981407373209626,
     "historical_similarity": 0.04199928045272827,
-    "final_score": 0.3160580691556302
+    "final_score": 0.3160210026660535
+  },
+  "matched_historical_rfp": {
+    "id": "HIST-RFP-0404",
+    "title": null,
+    "rfp_number": null
   },
   "matched_skus": [
     {

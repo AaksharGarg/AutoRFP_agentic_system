@@ -1,0 +1,26 @@
+{
+  "title": "pricing_output_v1",
+  "type": "object",
+  "properties": {
+    "rfp_id": {"type": "string"},
+    "area_used_sqft": {"type": "number"},
+    "currency_primary": {"type": "string"},
+    "currency_secondary": {"type": "string"},
+    "skus": {"type": "array"},
+    "material_cost_total_inr": {"type": "number"},
+    "labour_cost_inr": {"type": "number"},
+    "total_cost_inr": {"type": "number"},
+    "confidence": {"type": "object"},
+    "explanation": {"type": "string"},
+    "similar_rfps_used": {"type": "array"}
+  },
+  "required": [
+    "rfp_id",
+    "area_used_sqft",
+    "skus",
+    "material_cost_total_inr",
+    "labour_cost_inr",
+    "total_cost_inr"
+  ]
+}
+

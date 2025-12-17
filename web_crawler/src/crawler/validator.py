@@ -2,7 +2,7 @@
 import json
 from jsonschema import validate, ValidationError
 from typing import List, Dict
-SCHEMA_PATH = "src/schemas/rfp_extracted_v1.json"
+SCHEMA_PATH = "AutoRFP_agentic_system/web_crawler/src/schemas/rfp_extracted_v1.json"
 
 with open(SCHEMA_PATH, "r") as f:
     SCHEMA = json.load(f)

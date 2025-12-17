@@ -35,6 +35,11 @@
     "historical_similarity": -0.728306770324707,
     "final_score": 0.050753984451293976
   },
+  "matched_historical_rfp": {
+    "id": "HIST-RFP-0002",
+    "title": null,
+    "rfp_number": null
+  },
   "matched_skus": [
     {
       "sku": {

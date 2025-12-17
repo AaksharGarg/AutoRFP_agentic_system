@@ -97,7 +97,7 @@ def process_rfp(rfp: Dict):
 
         vendor_score = compute_vendor_score(rfp)
         urgency_score = compute_urgency_score(rfp)
-        hist_sim = compute_historical_similarity(rfp, pdf_text)
+        hist_sim, matched_rfp = compute_historical_similarity(rfp, pdf_text)
 
         # 4. SKU matching
         write_milestone(rfp_id, "Matching SKUs...")
@@ -122,18 +122,21 @@ def process_rfp(rfp: Dict):
         out_path = os.path.join(OUTPUT_DIR, f"{rfp_id}.json")
 
         output = {
-            "id": rfp_id,
-            "rfp": rfp,
-            "specs": specs,
-            "scores": scores,
-            "matched_skus": [
-                {"sku": m["sku"], "score": m["score"]} for m in matched_skus
-            ],
-            "explanation": explanation,
-        }
+    "id": rfp_id,
+    "rfp": rfp,
+    "specs": specs,
+    "scores": scores,
+    "matched_historical_rfp": matched_rfp,
+    "matched_skus": [
+        {"sku": m["sku"], "score": m["score"]} for m in matched_skus
+    ],
+    "explanation": explanation,
+}
+
 
         with open(out_path, "w") as f:
             json.dump(output, f, indent=2)
+
 
         write_milestone(rfp_id, f"[DONE] Saved output → {out_path}")
         return output

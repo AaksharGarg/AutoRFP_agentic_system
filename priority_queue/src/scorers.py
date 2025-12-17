@@ -180,7 +180,13 @@ def compute_urgency_score(rfp: dict) -> float:
 # ----------------------------------------------------------------------
 # 6. HISTORICAL SIMILARITY
 # ----------------------------------------------------------------------
-def compute_historical_similarity(rfp: dict, pdf_text: str | None) -> float:
+def compute_historical_similarity(rfp: dict, pdf_text: str | None):
+    """
+    Returns:
+        hist_score (float)
+        matched_rfp (dict or None) → includes ID + title
+    """
+
     text_blob = (
         (rfp.get("title") or "") + " " +
         (rfp.get("description") or "") + " " +
@@ -188,29 +194,34 @@ def compute_historical_similarity(rfp: dict, pdf_text: str | None) -> float:
     ).strip()
 
     if not text_blob:
-        return 0.0
+        return 0.0, None
 
-    # embed
+    # Embed
     emb = get_embedding(text_blob)
 
-    # vector DB
+    # Query vector DB
     store = get_vectorstore()
-
-    # CALL WITH CORRECT SIGNATURE
-    results = store.query_embedding(emb, k=5)
+    results = store.query_embedding(emb, k=3)
 
     if not results:
-        return 0.0
+        return 0.0, None
 
-    # for Chroma, this is distance; for JSON fallback, it's cosine similarity
-    # So we invert Chroma's distance
-    score = results[0]["score"]
+    top = results[0]
 
-    # If using Chroma, distance MUST be converted → smaller distance means more similar:
+    # Distance vs similarity correction
+    score = top["score"]
     if CHROMA_AVAILABLE:
-        score = 1 - score
+        score = 1 - score     # convert distance → similarity
 
-    return float(score)
+    # Include ID + title from metadata for output
+    matched = {
+        "id": top["id"],
+        "title": top["metadata"].get("title"),
+        "rfp_number": top["metadata"].get("rfp_number")
+    }
+
+    return float(score), matched
+
 
 
 # ----------------------------------------------------------------------

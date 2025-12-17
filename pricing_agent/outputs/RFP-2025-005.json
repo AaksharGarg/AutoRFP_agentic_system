@@ -1,0 +1,98 @@
+{
+  "rfp_id": "RFP-2025-005",
+  "matched_historical_rfp": "HIST-RFP-0378",
+  "fallback_used": false,
+  "area_used_sqft": 200000,
+  "skus": [
+    {
+      "sku_id": "AP-001",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 120.0,
+      "material_cost_inr": 320000.0
+    },
+    {
+      "sku_id": "AP-002",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 123.64,
+      "material_cost_inr": 329706.6666666666
+    },
+    {
+      "sku_id": "AP-003",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 127.27,
+      "material_cost_inr": 339386.6666666666
+    },
+    {
+      "sku_id": "AP-004",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 130.91,
+      "material_cost_inr": 349093.3333333333
+    },
+    {
+      "sku_id": "AP-005",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 134.55,
+      "material_cost_inr": 358800.0
+    },
+    {
+      "sku_id": "AP-006",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 138.18,
+      "material_cost_inr": 368480.0
+    },
+    {
+      "sku_id": "AP-007",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 141.82,
+      "material_cost_inr": 378186.6666666666
+    },
+    {
+      "sku_id": "AP-008",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 145.45,
+      "material_cost_inr": 387866.6666666666
+    },
+    {
+      "sku_id": "AP-009",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 149.09,
+      "material_cost_inr": 397573.3333333333
+    },
+    {
+      "sku_id": "AP-010",
+      "coats": 2,
+      "coverage_sqft_per_litre": 150,
+      "litres_needed": 2666.6666666666665,
+      "unit_price_inr": 152.73,
+      "material_cost_inr": 407279.99999999994
+    }
+  ],
+  "material_cost_total_inr": 3636373.333333333,
+  "labour_cost_inr": 400000.0,
+  "total_cost_inr": 4036373.333333333,
+  "confidence": {
+    "area_confidence": "medium"
+  },
+  "explanation": "Area used: 200000 sqft. Confidence: medium. Coats per SKU based on category rules. Labour multiplier: 1.0. ",
+  "similar_rfps_used": [
+    "HIST-RFP-0378"
+  ]
+}

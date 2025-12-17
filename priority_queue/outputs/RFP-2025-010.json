@@ -41,9 +41,14 @@
     "spec_score": 0.0,
     "text_score": 0.7999999999999996,
     "vendor_score": 0.0,
-    "urgency_score": 0.9762070576018355,
+    "urgency_score": 0.9726532132038171,
     "historical_similarity": -0.5277605056762695,
-    "final_score": 0.22726698278883478
+    "final_score": 0.22673390612913208
+  },
+  "matched_historical_rfp": {
+    "id": "HIST-RFP-0073",
+    "title": null,
+    "rfp_number": null
   },
   "matched_skus": [
     {
@@ -607,5 +612,5 @@
       "score": 0.0
     }
   ],
-  "explanation": "Spec Score: 0.00, Text Score: 0.80, Vendor Score: 0.00, Urgency: 0.98, Historical: -0.53. Matched SKUs: 10"
+  "explanation": "Spec Score: 0.00, Text Score: 0.80, Vendor Score: 0.00, Urgency: 0.97, Historical: -0.53. Matched SKUs: 10"
 }

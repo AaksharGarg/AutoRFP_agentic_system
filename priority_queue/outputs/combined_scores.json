@@ -42,9 +42,14 @@
       "spec_score": 0.0,
       "text_score": 0.7999999999999996,
       "vendor_score": 0.0,
-      "urgency_score": 0.9762070576018355,
+      "urgency_score": 0.9726532132038171,
       "historical_similarity": -0.5277605056762695,
-      "final_score": 0.22726698278883478
+      "final_score": 0.22673390612913208
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0073",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -608,7 +613,7 @@
         "score": 0.0
       }
     ],
-    "explanation": "Spec Score: 0.00, Text Score: 0.80, Vendor Score: 0.00, Urgency: 0.98, Historical: -0.53. Matched SKUs: 10"
+    "explanation": "Spec Score: 0.00, Text Score: 0.80, Vendor Score: 0.00, Urgency: 0.97, Historical: -0.53. Matched SKUs: 10"
   },
   {
     "id": "RFP-2025-012",
@@ -662,9 +667,14 @@
       "spec_score": 0.0,
       "text_score": 0.8,
       "vendor_score": 0.0,
-      "urgency_score": 0.9998105940561749,
+      "urgency_score": 0.9997815142882804,
       "historical_similarity": -0.041036248207092285,
-      "final_score": 0.30381615187736244
+      "final_score": 0.3038117899121783
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0295",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -1266,6 +1276,11 @@
       "urgency_score": 0.0,
       "historical_similarity": -0.728306770324707,
       "final_score": 0.050753984451293976
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0002",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -1875,9 +1890,14 @@
       "spec_score": 0.0,
       "text_score": 0.8,
       "vendor_score": 0.0,
-      "urgency_score": 0.9999704255872154,
+      "urgency_score": 0.9999658841476075,
       "historical_similarity": -0.3777066469192505,
-      "final_score": 0.25333956680019476
+      "final_score": 0.25333888558425355
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0467",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -2487,9 +2507,14 @@
       "spec_score": 0.0,
       "text_score": 0.8,
       "vendor_score": 0.0,
-      "urgency_score": 0.9999072689343341,
+      "urgency_score": 0.9998930302119844,
       "historical_similarity": -0.29765915870666504,
-      "final_score": 0.2653372165341504
+      "final_score": 0.265335080725798
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0026",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -3111,9 +3136,14 @@
       "spec_score": 0.3333333333333333,
       "text_score": 0.8142857142857144,
       "vendor_score": 0.0,
-      "urgency_score": 0.9843707299525929,
+      "urgency_score": 0.9820137900379085,
       "historical_similarity": 0.9184109345078468,
-      "final_score": 0.5816077258595421
+      "final_score": 0.5812541848723395
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0213",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -3734,9 +3764,14 @@
       "spec_score": 0.0,
       "text_score": 0.8,
       "vendor_score": 0.0,
-      "urgency_score": 0.9992101340582635,
+      "urgency_score": 0.9990889488055994,
       "historical_similarity": 0.205561101436615,
-      "final_score": 0.34071568532423185
+      "final_score": 0.34069750753633216
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0336",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -4353,9 +4388,14 @@
       "spec_score": 0.0,
       "text_score": 0.813333333333334,
       "vendor_score": 0.0,
-      "urgency_score": 0.9962093826779632,
-      "historical_similarity": 0.26775920391082764,
-      "final_score": 0.35226195465498544
+      "urgency_score": 0.9956298204565557,
+      "historical_similarity": 0.2689627408981323,
+      "final_score": 0.35235555086987
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0378",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -4973,9 +5013,14 @@
       "spec_score": 0.3333333333333333,
       "text_score": 0.8000000000000003,
       "vendor_score": 0.0,
-      "urgency_score": 0.9981407373209626,
+      "urgency_score": 0.9978558318550271,
       "historical_similarity": 0.07345640659332275,
-      "final_score": 0.45407290492047614
+      "final_score": 0.45403016910058586
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0489",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -5605,9 +5650,14 @@
       "spec_score": 0.0,
       "text_score": 0.7999999999999989,
       "vendor_score": 0.0,
-      "urgency_score": 0.9983878472514738,
+      "urgency_score": 0.9981407373209626,
       "historical_similarity": 0.04199928045272827,
-      "final_score": 0.3160580691556302
+      "final_score": 0.3160210026660535
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0404",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -6223,9 +6273,14 @@
       "spec_score": 0.0,
       "text_score": 0.8,
       "vendor_score": 0.0,
-      "urgency_score": 0.9922872884870879,
+      "urgency_score": 0.9911134112809121,
       "historical_similarity": 0.16765308380126953,
-      "final_score": 0.33399105584325367
+      "final_score": 0.33381497426232726
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0201",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -6838,9 +6893,14 @@
       "spec_score": 0.3333333333333333,
       "text_score": 0.7999999999999992,
       "vendor_score": 0.0,
-      "urgency_score": 0.9897627128375664,
+      "urgency_score": 0.9882091601357991,
       "historical_similarity": 0.42516767978668213,
-      "final_score": 0.5055728922269704
+      "final_score": 0.5053398593217053
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0303",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -7455,9 +7515,14 @@
       "spec_score": 0.0,
       "text_score": 0.8,
       "vendor_score": 0.0,
-      "urgency_score": 0.9941929415536206,
+      "urgency_score": 0.9933071490757153,
       "historical_similarity": 0.2518349885940552,
-      "final_score": 0.3469041895221514
+      "final_score": 0.34677132065046556
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0404",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -8073,9 +8138,14 @@
       "spec_score": 0.0,
       "text_score": 0.7999999999999992,
       "vendor_score": 0.0,
-      "urgency_score": 0.9996131717493575,
+      "urgency_score": 0.9995537949770634,
       "historical_similarity": -0.08561015129089355,
-      "final_score": 0.2971004530687694
+      "final_score": 0.2970915465529253
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0295",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
@@ -8693,9 +8763,14 @@
       "spec_score": 0.0,
       "text_score": 0.8,
       "vendor_score": 0.0,
-      "urgency_score": 0.9975273768433653,
+      "urgency_score": 0.9971487511239807,
       "historical_similarity": -0.17808711528778076,
-      "final_score": 0.2829160392333377
+      "final_score": 0.28285924537543
+    },
+    "matched_historical_rfp": {
+      "id": "HIST-RFP-0120",
+      "title": null,
+      "rfp_number": null
     },
     "matched_skus": [
       {
